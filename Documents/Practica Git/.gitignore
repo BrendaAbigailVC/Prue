@@ -1,29 +1,16 @@
-# Ignorar archivos de configuración y carpetas comunes
-.DS_Store
-.Trash/
-.bash_history
-.bash_sessions/
-.conda/
-.vscode/
-.ipynb_checkpoints/
-.idea/
-.eclipse/
-.gradle/
-.cache/
-.config/
-.local/
-.npm/
-.nuget/
-.python_history
-.ssh/
-.zsh_sessions/
-.zsh_history
-Applications/
-Downloads/
-Desktop/
-Music/
-Pictures/
-Library/
-Virtual Machines.localized/
+# Ignorar archivos específicos
+/.DS_Store
+/.Trash/
+/.bash_history
+/.bash_sessions/
+/.conda/
+/.vscode/
+/Applications/
+/Desktop/
+/Downloads/
+/Movies/
+/Music/
+/Pictures/
+/Library/
+/Virtual Machines.localized/
 
-.DS_Store
